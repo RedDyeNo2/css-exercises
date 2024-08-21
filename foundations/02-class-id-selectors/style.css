@@ -1,0 +1,17 @@
+#blue {
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+}
+
+.size24 {
+  font-size: 24px;
+}
+.vainillaodd {
+  background-color: rgba(226, 120, 137, 0.788);
+  font-style: verdana "DejaVu Sans", sans-serif;
+}
+
+#verdeid {
+  background-color: rgb(0, 223, 0);
+  font-weight: bold;
+}

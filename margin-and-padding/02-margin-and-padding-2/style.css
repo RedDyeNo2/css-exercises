@@ -4,6 +4,7 @@ body {
 }
 
 .card {
+  padding: 8px;
   width: 400px;
   background: #fff;
   margin: 16px auto;
@@ -11,17 +12,37 @@ body {
 
 .title {
   background: #e3f4ff;
+  font-size: 16px;
+  padding: 8px;
+  margin-bottom: 8px;
 }
 
 .content {
   background: #e3f4ff;
+  margin-bottom: 8px;
+  padding: 16px 8px;
 }
 
 .button-container {
+  padding: 8px;
+  text-align: center;
   background: #e3f4ff;
 }
 
 button {
+  margin: 0 auto;
+  display: block;
   background: white;
+  padding: 8px 24px;
   border: 1px solid #eee;
 }
+
+/* .agregadatest {
+  background-color: aqua;
+  display: block;
+  width: 400;
+  margin: 16px auto;
+  text-align: center;
+  padding: 8px 24px;
+  border: 1px solid #eee;
+} */

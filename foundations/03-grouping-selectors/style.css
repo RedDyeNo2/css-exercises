@@ -1,0 +1,14 @@
+.primera {
+  background-color: black;
+  color: white;
+}
+
+.segunda {
+  background-color: yellow;
+  color: black;
+}
+
+.primera.segunda {
+  font-size: 28px;
+  font-style: helvetica, "Times New Roman", sans-serif;
+}
